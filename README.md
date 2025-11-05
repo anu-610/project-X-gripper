@@ -2,7 +2,7 @@
 
 ESP32 controlled gripper bot.
 
-Main electronic componets Used: 
+Main electronic componets Used:  
 
 + ESP32 Development Board
 
