@@ -38,9 +38,11 @@ The controller app is built using RemoteXY.<br>
 ![RemoteXY GUI](https://github.com/anu-610/project-X-gripper/blob/main/gui.png)
 
 ## Mechanical Design and aspects
-![Design](https://github.com/anu-610/project-X-gripper/blob/main/img/1.png)
-![Design](https://github.com/anu-610/project-X-gripper/blob/main/img/2.png)
-![Design](https://github.com/anu-610/project-X-gripper/blob/main/img/3.png)
+![Design](https://github.com/anu-610/project-X-gripper/blob/main/img/1.jpg)
+![Design](https://github.com/anu-610/project-X-gripper/blob/main/img/2.jpg)
+![Design](https://github.com/anu-610/project-X-gripper/blob/main/img/3.jpg)
+![Design](https://github.com/anu-610/project-X-gripper/blob/main/img/4.jpg)
+
 
 
 
