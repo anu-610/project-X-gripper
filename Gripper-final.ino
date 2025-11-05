@@ -60,7 +60,6 @@ struct {
 #define RIGHT_PWM_CHANNEL 1
 
 // --- Servo Pin Definitions ---
-// Change these GPIO numbers to match your wiring
 #define SERVO_GRIPPER_PIN  13  // The servo for Open/Close
 #define SERVO_ARM_PIN      15  // The servo for Arm Up/Down
 #define SERVO_BASE_PIN 4 //The lowest servo
