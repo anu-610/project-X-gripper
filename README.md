@@ -45,7 +45,7 @@ The controller app is built using RemoteXY.<br>
 ### measurements
 ![Design](https://github.com/anu-610/project-X-gripper/blob/main/img/2.jpg)
 ### Gripper
-![Design](https://github.com/anu-610/project-X-gripper/blob/main/img/3.png)
+![Design](https://github.com/anu-610/project-X-gripper/blob/main/img/3.jpg)
 
 ### Motor Clamb
 ![Design](https://github.com/anu-610/project-X-gripper/blob/main/img/6.jpg)
