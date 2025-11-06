@@ -1,6 +1,8 @@
 # Project X - Gripper
 
-ESP32 controlled gripper bot.
+ESP32 controlled (bluetooth) gripper bot.
+
+
 
 Main electronic componets Used:  
 
@@ -44,6 +46,10 @@ The controller app is built using RemoteXY.<br>
 ![Design](https://github.com/anu-610/project-X-gripper/blob/main/img/2.jpg)
 ### Gripper
 ![Design](https://github.com/anu-610/project-X-gripper/blob/main/img/3.jpg)
+
+### Motor Clamb
+![Design](https://github.com/anu-610/project-X-gripper/blob/main/img/6.jpg)
+
 ### Dimension of arms
 ![Design](https://github.com/anu-610/project-X-gripper/blob/main/img/4.jpg)
 ![Design](https://github.com/anu-610/project-X-gripper/blob/main/img/5.jpg)
