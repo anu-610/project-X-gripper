@@ -2,8 +2,6 @@
 
 ESP32 controlled (bluetooth) gripper bot.
 
-
-
 Main electronic componets Used:  
 
 + ESP32 Development Board
