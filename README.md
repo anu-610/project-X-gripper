@@ -77,5 +77,5 @@ The controller app is built using RemoteXY.<br>
 | Item 15 | App control Version | 1 | 140 |
 | Item 16 | MG996r servo motor | 2 | 694 |
 | Item 17 | Workshop charges | | 500 |
-| Item 18 | Miscellaneous | 1000 |
+| Item 18 | Miscellaneous | | 1000 |
 | **Total** | | | 8835 |
