@@ -19,6 +19,8 @@ Main electronic componets Used:
 <br>
 The whole thing is controlled wirelessly from RemoteXY app from phone using Bluetooth LE. <br>
 
+** Cad files are available at cad/ folder **
+
 ## How to Use the App (RemoteXY)
 
 The controller app is built using RemoteXY.<br>
@@ -62,16 +64,18 @@ The controller app is built using RemoteXY.<br>
 
 | Item ID | Item Name | Quantity | Cost (INR) |
 | :--- | :--- | :--- | :--- |
-| Item 1 | esp32 | 2 | 900 |
-| Item 2 | l298n | 2 | 500 |
-| Item 3 | servo motor mg9962r | 3 | 1227 |
-| Item 4 | lipo battery 12v | 1 | 2000 |
-| Item 8 | thread to shaft connector | 4 | 320 |
-| Item 10 | 12 v motor clamp | 4 | 200 |
-| Item 11 | silicone sheet | 2 | 600 |
+| Item 1 | esp32 | 2 | 698 |
+| Item 2 | l298n | 2 | 398 |
+| Item 3 | servo motor mg90 | 3 | 702 |
+| Item 4 | lipo battery 12v | 1 | 1936 |
+| Item 8 | thread to shaft connector | 4 | 836 |
+| Item 10 | 12 v motor clamp | 4 | 250 |
+| Item 11 | silicone sheet | 2 | 175 |
 | Item 12 | wheels | 4 | 819 |
 | Item 13 | 12v 600rpm motor | 4 | N/A |
-| Item 14 | laser cutted acrylic sheet | 1 | 1500 |
+| Item 14 | acrylic sheet | 1 | 687 |
 | Item 15 | App control Version | 1 | 140 |
-| Item 16 | MG90 servo motor | 2 | 460 |
-| **Total** | | | **7807 ~ 7900** |
+| Item 16 | MG996r servo motor | 2 | 694 |
+| Item 17 | Workshop charges | | 500 |
+| Item 18 | Miscellaneous | 1000 |
+| **Total** | | | 8835 |
