@@ -47,7 +47,7 @@ The controller app is built using RemoteXY.<br>
 ### Dimension of arms
 ![Design](https://github.com/anu-610/project-X-gripper/blob/main/img/4.jpg)
 ![Design](https://github.com/anu-610/project-X-gripper/blob/main/img/5.jpg)
-### Chasis
+### Chassis 
 ![Design](https://github.com/anu-610/project-X-gripper/blob/main/img/IMG-20251105-WA0030.jpg)
 
 
