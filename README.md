@@ -6,7 +6,7 @@ Main electronic componets Used:
 
 + ESP32 Development Board
 
-+ L293D Motor Driver IC
++ L298N Motor Driver IC
 
 + 4xDC motor
 
