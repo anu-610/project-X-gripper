@@ -19,7 +19,7 @@ Main electronic componets Used:
 <br>
 The whole thing is controlled wirelessly from RemoteXY app from phone using Bluetooth LE. <br>
 
-**Cad files are available at !(CAD files)[https://github.com/anu-610/project-X-gripper/tree/main/CAD%20files] folder**
+**Cad files are available at [**CAD files**](https://github.com/anu-610/project-X-gripper/tree/main/CAD%20files) folder**
 
 ## How to Use the App (RemoteXY)
 
