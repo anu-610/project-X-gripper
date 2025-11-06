@@ -19,7 +19,7 @@ Main electronic componets Used:
 <br>
 The whole thing is controlled wirelessly from RemoteXY app from phone using Bluetooth LE. <br>
 
-** Cad files are available at cad/ folder **
+**Cad files are available at cad/ folder**
 
 ## How to Use the App (RemoteXY)
 
