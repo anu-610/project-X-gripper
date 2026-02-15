@@ -1,4 +1,4 @@
-# Project X - Gripper
+# Project X - Gripper (Cozmoclench -  TECHFEST - IIT Bombay)
 
 ESP32 controlled (bluetooth) gripper bot.
 
